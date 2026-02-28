@@ -16,7 +16,7 @@ Logo specifically for 1200x100 size.
 
 ## Artificial Intelligence (A.I) Decrees
 
-[![banner](/.internals/trademarks/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
 This project deploys the use of one or more generative artificial intelligence
 such as but not limited to large language model (LLM) for the following tasks:
@@ -88,7 +88,7 @@ No deployment.
 
 ## Maintainers' Notes
 
-[![banner](/.internals/trademarks/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
 Since (Holloway) Chew, Kean Ho published its brand and trademark guideline,
 **you MUST go through the following to avoid any unwanted legal implications**:
@@ -146,7 +146,7 @@ For artificial intelligence:
 
 ## License
 
-[![banner](/.internals/trademarks/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -154,7 +154,7 @@ For artificial intelligence:
 * [Agreed Inkscape Privacy Policy](.internals/privacy-policy/Inkscape-Privacy-Policy.pdf)
 
 This entire repository is licensed under
-[Creative Commons Attribution-NoDerivatives 4.0 International License](/LICENSE.txt).
+[Creative Commons Attribution-NoDerivatives 4.0 International License](LICENSE.txt).
 To ensure better understanding of this license, the following sub-sections will
 briefly describe how to deploy the content.
 
